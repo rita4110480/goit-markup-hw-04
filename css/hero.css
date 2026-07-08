@@ -1,0 +1,39 @@
+/*Family: Roboto Weight: Bold | 700 Size: 56px Line Height: 60px | 1.07 Letter Spacing: 2% | 0.02em*/
+.hero{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    background-color: #2E2F42;
+    padding: 188px 0;    
+    }
+.hero-title {
+font-weight: 700;
+font-size: 56px;
+color: #FFFFFF;
+text-align: center;
+max-width: 496px;
+margin: 0 auto;
+}
+/*Family: Roboto Weight: Medium | 500 Size: 16px Line Height: 24px | 1.5 Letter Spacing: 4% | 0.04em*/ 
+.button {
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+background-color: #4D5AE5;
+display: block;
+margin: 0 auto;
+margin-top: 48px;
+padding: 16px 32px;
+border: none;
+border-radius: 4px;
+}
+
+.button:hover {
+background-color: #404bbf;
+}
+
+.button:focus {
+ background-color: #404bbf;
+}
