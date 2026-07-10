@@ -24,14 +24,15 @@
 .features-item {
   width: calc((100% - 72px) / 4);
 }
-.features-icon {
+.feature-icon {
   display: flex;
   gap: 24px;
   align-items: center;
+  justify-content: center;
   width: 264px;
   height: 112px;
   margin-bottom: 8px;
-  background-color: #8e8f99;
+  background-color: #f4f4fd;
   border-radius: 4px;
 }
 .features-svg {
