@@ -33,9 +33,10 @@
   height: 112px;
   margin-bottom: 8px;
   background-color: #f4f4fd;
+  border: 1px solid #8e8f99;
   border-radius: 4px;
 }
-.features-svg {
+.feature-svg {
   width: 64px;
   height: 64px;
 }
